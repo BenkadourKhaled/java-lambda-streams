@@ -1,8 +1,8 @@
-package dz.benkadour.khaled;
+package dz.benkadour.khaled.imperitivevsdeclarative;
 
 import java.util.stream.IntStream;
 
-public class ImperativeVsDeclarative {
+public class ImperativeVsDeclarative1 {
 
     public static void main(String[] args) {
 
