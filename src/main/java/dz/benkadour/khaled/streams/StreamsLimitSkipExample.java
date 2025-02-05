@@ -10,7 +10,7 @@ public class StreamsLimitSkipExample {
         return integers.stream().limit(3).reduce(Integer::sum);
     }
 
-    public static void main(String[] args) { 
+    public static void main(String[] args) {
 
         List<Integer> integers = Arrays.asList(6, 7, 8, 9, 10);
         Optional<Integer> limit = limit(integers);
