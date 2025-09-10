@@ -1,4 +1,4 @@
-package dz.benkadour.khaled.lambdas;
+package dz.benkadour.khaled.lambdas.exemple1;
 
 public class RunnableLambdaExample {
 
