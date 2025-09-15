@@ -38,6 +38,8 @@ public class GreetingMainTest {
 
         GreetingService g1 = (n) -> n.toUpperCase();
         test((n) -> n.toUpperCase());
+        test((n) -> n.toUpperCase() + n.toLowerCase() + n.length());
+        test(a -> a.replace("d", "d"));
 
 
     }
